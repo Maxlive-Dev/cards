@@ -17,8 +17,7 @@ Today, I had an idea to spend a day each week implementing a cool ZeroPhone proj
 
 I've published [alpha boards](https://github.com/ZeroPhone/ZeroPhone-PCBs/releases/tag/alpha)! **Do not order those**, there are bugs I'm fixing now, as well as features that definitely need to be included. By the time of next worklog, I'll make the next revision and will tell you about it - you can also follow [the GitHub repo](https://github.com/ZeroPhone/ZeroPhone-PCBs). [Read more](https://hackaday.io/project/19035/log/52065) about the **TODOs** of the current boards and **project plans** for the next 30 days.
 
-## 
-Hardware
+## Hardware
 
 Why do I stack PCBs? Simple - it's the most efficient way to make a phone around a Pi Zero. The prototype unit I'm using for experiments now has 9 PCBs (including Zero, ESP-12 and Chinese breakouts), but I hope to get it down to 5-7. The PCB sandwiching also decreases cost and eliminates some part sourcing problems. [Read this worklog](https://hackaday.io/project/19035/log/52085) to read more about it, the _stack_ of problems associated with it, as well as the project's expected dimensions.
 
